@@ -37,7 +37,7 @@ end
 
 # Define your play method below
 def play(board)
-      loop
+      loop do
         board ="X"
       end
 end
