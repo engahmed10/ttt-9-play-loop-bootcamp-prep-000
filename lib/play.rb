@@ -40,6 +40,6 @@ def play(board)
       i=0
       while i < board.length()
         board[i] ="X"
-        i++
+        i +=1
       end
 end
