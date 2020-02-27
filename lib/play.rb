@@ -41,7 +41,7 @@ def play(board)
       while i < board.length()
         board[i] ="X"
         i +=1
-        
+
       end
       puts board
 end
