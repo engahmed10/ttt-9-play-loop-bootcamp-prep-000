@@ -38,7 +38,7 @@ end
 # Define your play method below
 def play(board)
       i=0
-      while board[i] 
+      while board[i]
         board[i] ="X"
         i++
       end      
